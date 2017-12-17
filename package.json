@@ -8,6 +8,7 @@
     "url": "git@github.com:johndous/react-rollup-buble-scaffolding.git"
   },
   "author": "Johndous",
+  "license": "MIT",
   "homepage": "https://github.com/johndous/react-rollup-buble-scaffolding#readme",
   "scripts": {
     "start": "npm run build:dev",
