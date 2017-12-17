@@ -1,14 +1,14 @@
 {
-  "name": "react-rollup-scaffolding",
+  "name": "react-rollup-buble-scaffolding",
   "version": "0.0.1",
   "description": "React app built with rollup",
   "main": "build/index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:johndous/react-rollup-scaffolding.git"
+    "url": "git@github.com:johndous/react-rollup-buble-scaffolding.git"
   },
   "author": "Johndous",
-  "homepage": "https://github.com/johndous/react-rollup-scaffolding#readme",
+  "homepage": "https://github.com/johndous/react-rollup-buble-scaffolding#readme",
   "scripts": {
     "start": "npm run build:dev",
     "build:dev": "rollup -c rollup.config.dev.js -w",
